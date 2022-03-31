@@ -1,4 +1,4 @@
-# eigenvecor-continuation-scratc
+# eigenvecor-continuation-scratch
 A loose handful of toy models and calculations exploring eigenvector continuation and Bayesian optimization
 
 # install
